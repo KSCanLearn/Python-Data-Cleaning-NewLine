@@ -1,0 +1,2 @@
+Go to: https://www.kaggle.com/datasets/sbhatti/news-summarization
+Download the CSV and paste the data.csv to this file path.

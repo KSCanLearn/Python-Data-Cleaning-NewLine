@@ -1,0 +1,5 @@
+env/
+__pycache__/
+input/data.csv
+input_chunk/*.csv
+output_chunk/*.zip
